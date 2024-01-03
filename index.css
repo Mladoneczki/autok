@@ -77,3 +77,15 @@ i{
     grid-template-areas: "erdekes autok";
     grid-template-columns: auto;
 }
+table{
+    border-collapse: collapse;
+}
+th, td{
+    text-align: left;
+    width: 15rem;
+
+}
+th{
+    border-bottom: 2px solid black;
+}
+tr:nth-child(even) { background-color: gray;; }
