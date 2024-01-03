@@ -52,9 +52,6 @@ i{
 .grid{
     display: grid;
     grid-template-areas: 
-    "carl henry autok"
-    "carl henry autok"
-    "carl henry autok"
     "carl henry autok";
     grid-template-columns:1fr 1fr 1fr;
 }
